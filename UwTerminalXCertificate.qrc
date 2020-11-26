@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>certificates/UwTerminalX_new.crt</file>
+    </qresource>
+</RCC>
